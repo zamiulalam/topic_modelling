@@ -1,6 +1,6 @@
 # BERTopic Topic Modeling on NYT Artificial Intelligence Coverage
 
-A topic modeling pipeline applied to New York Times articles about Artificial Intelligence, using [BERTopic](https://maartengrobben.github.io/BERTopic/) to discover and visualize latent themes across a corpus of ~10,000 articles.
+A topic modeling pipeline applied to New York Times articles about Artificial Intelligence, using [BERTopic](https://maartengr.github.io/BERTopic/) to discover and visualize latent themes across a corpus of ~10,000 articles.
 
 ---
 
